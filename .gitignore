@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+
+# Ambientes virtuais
+venv/
+.venv/
+
+# Build e Dist
+build/
+dist/
+
+# Configurações locais
+settings.json

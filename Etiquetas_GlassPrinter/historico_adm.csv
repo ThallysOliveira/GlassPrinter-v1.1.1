@@ -1,0 +1,50 @@
+﻿layout;chamado;data_retirada;tecnico;beneficiario;destino;setor;produto;quantidade;data_processamento
+adm;REQ-308869;2026-05-13;Marcio Eike Stein de Souza;INDIARA RAPOSO;MG090012 - CENTRAL DE ATENDIMENTO A24H;01AD160110 - MXBR-Central - Ilha de Liberacao;Mouse sem fio - 4 de Maio;1;13/05/2026 00:11:54
+adm;REQ-308869;2026-05-13;Marcio Eike Stein de Souza;INDIARA RAPOSO;MG090012 - CENTRAL DE ATENDIMENTO A24H;01AD160110 - MXBR-Central - Ilha de Liberacao;Teclado - 4 de Maio;1;13/05/2026 00:11:54
+adm;REQ-308869;2026-05-13;Marcio Eike Stein de Souza;INDIARA RAPOSO;MG090012 - CENTRAL DE ATENDIMENTO A24H;01AD160110 - MXBR-Central - Ilha de Liberacao;Headset USB (TOP USE) - 4 de Maio;1;13/05/2026 00:11:54
+adm;REQ-308869;2026-05-13;Marcio Eike Stein de Souza;INDIARA RAPOSO;MG090012 - CENTRAL DE ATENDIMENTO A24H;01AD160110 - MXBR-Central - Ilha de Liberacao;notebook - 4 de Maio - ADM;1;13/05/2026 00:11:54
+adm;REQ-308523;2026-05-13;Gabriel Vianna Fracalossi;Vitor de Almeida Rosa;MG803N-C - CORREDOR;01AD041201 - ROM-Contr - Segurança da Informação;Monitor Adicional - 4 de Maio;1;13/05/2026 00:11:54
+adm;REQ-309126;2026-05-13;Natan Campos Dos Santos;Eduarda Passamani Bettcher;MG801S-F - CORREDOR;01AD070101 - QLT-Eng - Orçamento;Headset USB (TOP USE) - 18 de Maio;1;13/05/2026 00:14:10
+adm;REQ-309126;2026-05-13;Natan Campos Dos Santos;Eduarda Passamani Bettcher;MG801S-F - CORREDOR;01AD070101 - QLT-Eng - Orçamento;Notebook - 18 de Maio - ADM;1;13/05/2026 00:14:10
+adm;REQ-309126;2026-05-13;Natan Campos Dos Santos;Eduarda Passamani Bettcher;MG801S-F - CORREDOR;01AD070101 - QLT-Eng - Orçamento;Smartphone - 18 de Maio;1;13/05/2026 00:14:10
+adm;REQ-309034;2026-05-13;Jakson Pinto Siqueira;Sophia Soares Lourenço;MG802S AC;07AD170102 - MXBR-A24H - Faturamento;Computador - 7 de Maio;1;13/05/2026 00:14:10
+adm;REQ-309034;2026-05-13;Jakson Pinto Siqueira;Sophia Soares Lourenço;MG802S AC;07AD170102 - MXBR-A24H - Faturamento;Monitor - 7 de Maio;1;13/05/2026 00:14:10
+adm;REQ-309034;2026-05-13;Jakson Pinto Siqueira;Sophia Soares Lourenço;MG802S AC;07AD170102 - MXBR-A24H - Faturamento;Monitor Adicional - 7 de Maio;1;13/05/2026 00:14:10
+adm;REQ-309034;2026-05-13;Jakson Pinto Siqueira;Sophia Soares Lourenço;MG802S AC;07AD170102 - MXBR-A24H - Faturamento;Mouse - 7 de Maio;1;13/05/2026 00:14:10
+adm;REQ-308549;2026-05-13;Gabriel Vianna Fracalossi;Ester Mageski Ferreira;SALA CENTRO - 3 ANDARMG803CMG803C - SALA CENTRO - 3 ANDAR;01AD150121 - MXBR-Célula de Dados;Monitor - 13 de Maio;1;13/05/2026 00:14:10
+adm;REQ-308549;2026-05-13;Gabriel Vianna Fracalossi;Ester Mageski Ferreira;SALA CENTRO - 3 ANDARMG803CMG803C - SALA CENTRO - 3 ANDAR;01AD150121 - MXBR-Célula de Dados;Headset USB (TOP USE) - 13 de Maio;1;13/05/2026 00:14:10
+adm;REQ-308549;2026-05-13;Gabriel Vianna Fracalossi;Ester Mageski Ferreira;SALA CENTRO - 3 ANDARMG803CMG803C - SALA CENTRO - 3 ANDAR;01AD150121 - MXBR-Célula de Dados;Notebook - 13 de Maio - ADM;1;13/05/2026 00:14:10
+adm;REQ-308549;2026-05-13;Gabriel Vianna Fracalossi;Ester Mageski Ferreira;SALA CENTRO - 3 ANDARMG803CMG803C - SALA CENTRO - 3 ANDAR;01AD150121 - MXBR-Célula de Dados;Mouse sem fio - 13 de Maio;1;13/05/2026 00:14:10
+adm;REQ-309126;2026-05-13;Natan Campos Dos Santos;Eduarda Passamani Bettcher;MG801S-F - CORREDOR;01AD070101 - QLT-Eng - Orçamento;Headset USB (TOP USE) - 18 de Maio;1;13/05/2026 00:15:50
+adm;REQ-309126;2026-05-13;Natan Campos Dos Santos;Eduarda Passamani Bettcher;MG801S-F - CORREDOR;01AD070101 - QLT-Eng - Orçamento;Notebook - 18 de Maio - ADM;1;13/05/2026 00:15:50
+adm;REQ-309126;2026-05-13;Natan Campos Dos Santos;Eduarda Passamani Bettcher;MG801S-F - CORREDOR;01AD070101 - QLT-Eng - Orçamento;Smartphone - 18 de Maio;1;13/05/2026 00:15:50
+adm;REQ-309034;2026-05-13;Jakson Pinto Siqueira;Sophia Soares Lourenço;MG802S AC;07AD170102 - MXBR-A24H - Faturamento;Computador - 7 de Maio;1;13/05/2026 00:15:50
+adm;REQ-309034;2026-05-13;Jakson Pinto Siqueira;Sophia Soares Lourenço;MG802S AC;07AD170102 - MXBR-A24H - Faturamento;Monitor - 7 de Maio;1;13/05/2026 00:15:50
+adm;REQ-309034;2026-05-13;Jakson Pinto Siqueira;Sophia Soares Lourenço;MG802S AC;07AD170102 - MXBR-A24H - Faturamento;Monitor Adicional - 7 de Maio;1;13/05/2026 00:15:50
+adm;REQ-309034;2026-05-13;Jakson Pinto Siqueira;Sophia Soares Lourenço;MG802S AC;07AD170102 - MXBR-A24H - Faturamento;Mouse - 7 de Maio;1;13/05/2026 00:15:50
+adm;REQ-308549;2026-05-13;Gabriel Vianna Fracalossi;Ester Mageski Ferreira;SALA CENTRO - 3 ANDARMG803CMG803C - SALA CENTRO - 3 ANDAR;01AD150121 - MXBR-Célula de Dados;Monitor - 13 de Maio;1;13/05/2026 00:15:50
+adm;REQ-308549;2026-05-13;Gabriel Vianna Fracalossi;Ester Mageski Ferreira;SALA CENTRO - 3 ANDARMG803CMG803C - SALA CENTRO - 3 ANDAR;01AD150121 - MXBR-Célula de Dados;Headset USB (TOP USE) - 13 de Maio;1;13/05/2026 00:15:50
+adm;REQ-308549;2026-05-13;Gabriel Vianna Fracalossi;Ester Mageski Ferreira;SALA CENTRO - 3 ANDARMG803CMG803C - SALA CENTRO - 3 ANDAR;01AD150121 - MXBR-Célula de Dados;Notebook - 13 de Maio - ADM;1;13/05/2026 00:15:50
+adm;REQ-308549;2026-05-13;Gabriel Vianna Fracalossi;Ester Mageski Ferreira;SALA CENTRO - 3 ANDARMG803CMG803C - SALA CENTRO - 3 ANDAR;01AD150121 - MXBR-Célula de Dados;Mouse sem fio - 13 de Maio;1;13/05/2026 00:15:50
+adm;REQ-309126;2026-05-13;Natan Campos Dos Santos;Eduarda Passamani Bettcher;MG801S-F - CORREDOR;01AD070101 - QLT-Eng - Orçamento;Headset USB (TOP USE) - 18 de Maio;1;13/05/2026 00:47:25
+adm;REQ-309126;2026-05-13;Natan Campos Dos Santos;Eduarda Passamani Bettcher;MG801S-F - CORREDOR;01AD070101 - QLT-Eng - Orçamento;Notebook - 18 de Maio - ADM;1;13/05/2026 00:47:25
+adm;REQ-309126;2026-05-13;Natan Campos Dos Santos;Eduarda Passamani Bettcher;MG801S-F - CORREDOR;01AD070101 - QLT-Eng - Orçamento;Smartphone - 18 de Maio;1;13/05/2026 00:47:25
+adm;REQ-309034;2026-05-13;Jakson Pinto Siqueira;Sophia Soares Lourenço;MG802S AC;07AD170102 - MXBR-A24H - Faturamento;Computador - 7 de Maio;1;13/05/2026 00:47:25
+adm;REQ-309034;2026-05-13;Jakson Pinto Siqueira;Sophia Soares Lourenço;MG802S AC;07AD170102 - MXBR-A24H - Faturamento;Monitor - 7 de Maio;1;13/05/2026 00:47:25
+adm;REQ-309034;2026-05-13;Jakson Pinto Siqueira;Sophia Soares Lourenço;MG802S AC;07AD170102 - MXBR-A24H - Faturamento;Monitor Adicional - 7 de Maio;1;13/05/2026 00:47:25
+adm;REQ-309034;2026-05-13;Jakson Pinto Siqueira;Sophia Soares Lourenço;MG802S AC;07AD170102 - MXBR-A24H - Faturamento;Mouse - 7 de Maio;1;13/05/2026 00:47:25
+adm;REQ-308549;2026-05-13;Gabriel Vianna Fracalossi;Ester Mageski Ferreira;SALA CENTRO - 3 ANDARMG803CMG803C - SALA CENTRO - 3 ANDAR;01AD150121 - MXBR-Célula de Dados;Monitor - 13 de Maio;1;13/05/2026 00:47:25
+adm;REQ-308549;2026-05-13;Gabriel Vianna Fracalossi;Ester Mageski Ferreira;SALA CENTRO - 3 ANDARMG803CMG803C - SALA CENTRO - 3 ANDAR;01AD150121 - MXBR-Célula de Dados;Headset USB (TOP USE) - 13 de Maio;1;13/05/2026 00:47:25
+adm;REQ-308549;2026-05-13;Gabriel Vianna Fracalossi;Ester Mageski Ferreira;SALA CENTRO - 3 ANDARMG803CMG803C - SALA CENTRO - 3 ANDAR;01AD150121 - MXBR-Célula de Dados;Notebook - 13 de Maio - ADM;1;13/05/2026 00:47:25
+adm;REQ-308549;2026-05-13;Gabriel Vianna Fracalossi;Ester Mageski Ferreira;SALA CENTRO - 3 ANDARMG803CMG803C - SALA CENTRO - 3 ANDAR;01AD150121 - MXBR-Célula de Dados;Mouse sem fio - 13 de Maio;1;13/05/2026 00:47:25
+adm;REQ-309126;2026-05-13;Natan Campos Dos Santos;Eduarda Passamani Bettcher;MG801S-F - CORREDOR;01AD070101 - QLT-Eng - Orçamento;Headset USB (TOP USE) - 18 de Maio;1;13/05/2026 00:53:14
+adm;REQ-309126;2026-05-13;Natan Campos Dos Santos;Eduarda Passamani Bettcher;MG801S-F - CORREDOR;01AD070101 - QLT-Eng - Orçamento;Notebook - 18 de Maio - ADM;1;13/05/2026 00:53:14
+adm;REQ-309126;2026-05-13;Natan Campos Dos Santos;Eduarda Passamani Bettcher;MG801S-F - CORREDOR;01AD070101 - QLT-Eng - Orçamento;Smartphone - 18 de Maio;1;13/05/2026 00:53:14
+adm;REQ-309034;2026-05-13;Jakson Pinto Siqueira;Sophia Soares Lourenço;MG802S AC;07AD170102 - MXBR-A24H - Faturamento;Computador - 7 de Maio;1;13/05/2026 00:53:14
+adm;REQ-309034;2026-05-13;Jakson Pinto Siqueira;Sophia Soares Lourenço;MG802S AC;07AD170102 - MXBR-A24H - Faturamento;Monitor - 7 de Maio;1;13/05/2026 00:53:14
+adm;REQ-309034;2026-05-13;Jakson Pinto Siqueira;Sophia Soares Lourenço;MG802S AC;07AD170102 - MXBR-A24H - Faturamento;Monitor Adicional - 7 de Maio;1;13/05/2026 00:53:14
+adm;REQ-309034;2026-05-13;Jakson Pinto Siqueira;Sophia Soares Lourenço;MG802S AC;07AD170102 - MXBR-A24H - Faturamento;Mouse - 7 de Maio;1;13/05/2026 00:53:14
+adm;REQ-308549;2026-05-13;Gabriel Vianna Fracalossi;Ester Mageski Ferreira;SALA CENTRO - 3 ANDARMG803CMG803C - SALA CENTRO - 3 ANDAR;01AD150121 - MXBR-Célula de Dados;Monitor - 13 de Maio;1;13/05/2026 00:53:14
+adm;REQ-308549;2026-05-13;Gabriel Vianna Fracalossi;Ester Mageski Ferreira;SALA CENTRO - 3 ANDARMG803CMG803C - SALA CENTRO - 3 ANDAR;01AD150121 - MXBR-Célula de Dados;Headset USB (TOP USE) - 13 de Maio;1;13/05/2026 00:53:14
+adm;REQ-308549;2026-05-13;Gabriel Vianna Fracalossi;Ester Mageski Ferreira;SALA CENTRO - 3 ANDARMG803CMG803C - SALA CENTRO - 3 ANDAR;01AD150121 - MXBR-Célula de Dados;Notebook - 13 de Maio - ADM;1;13/05/2026 00:53:14
+adm;REQ-308549;2026-05-13;Gabriel Vianna Fracalossi;Ester Mageski Ferreira;SALA CENTRO - 3 ANDARMG803CMG803C - SALA CENTRO - 3 ANDAR;01AD150121 - MXBR-Célula de Dados;Mouse sem fio - 13 de Maio;1;13/05/2026 00:53:14

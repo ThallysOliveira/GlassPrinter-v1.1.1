@@ -1,0 +1,5 @@
+Liberar campo de patrimonio para inclusao após importação, utilizar o "informe sua localidade" para selecionar se será etiqueta de unidade ou de Adm.
+
+Adm["Azular", "Call Back - MG09", "CEC"]
+
+Unidade["Unidade", "CL", "Maxpar A24H", "Ibirapuera"]

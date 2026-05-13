@@ -1,0 +1,34 @@
+/* VS Code Professional Theme for GlassPrinter */
+
+.root {
+    -fx-base: #1e1e1e;
+    -fx-control-inner-background: #252526;
+}
+
+.sidebar {
+    -fx-background-color: #333333;
+    -fx-padding: 0;
+    -fx-spacing: 2;
+}
+
+/* Indicador de Seleção (A barrinha azul que você gostou) */
+.nav-button {
+    -fx-background-color: transparent;
+    -fx-text-fill: #858585;
+    -fx-alignment: CENTER_LEFT;
+    -fx-padding: 10 15;
+    -fx-border-width: 0 0 0 2;
+    -fx-border-color: transparent;
+}
+
+.nav-button:hover {
+    -fx-background-color: #2a2d2e;
+    -fx-text-fill: #ffffff;
+}
+
+/* Estilo Selecionado */
+.nav-button:selected {
+    -fx-background-color: #37373d;
+    -fx-text-fill: #ffffff;
+    -fx-border-color: #007acc; /* Azul VS Code original */
+}
